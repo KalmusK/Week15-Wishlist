@@ -16,4 +16,13 @@ h1 {
 
 ul {
     list-style-type: none;
+    margin-top: 2rem;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+
 }
